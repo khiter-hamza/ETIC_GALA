@@ -118,7 +118,7 @@ function App() {
               </div>
             </div>
             <div className="alumni-button-container">
-              <button className="btn-see-more">voir plus...</button>
+             <a href="https://meylicya.github.io/ETIC-Gala-Map/" > <button className="btn-see-more">Alumni Map...</button></a> 
             </div>
           </div>
         </section>
