@@ -286,6 +286,11 @@ html, #root, .App {
   border-radius: 15px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
 }
+.group-image1{
+  width: 100%;
+  height: auto;
+ 
+}
 
 .speech-bubble {
   position: absolute;

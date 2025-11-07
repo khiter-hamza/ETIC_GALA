@@ -144,7 +144,7 @@ function App() {
               </div>
               <div className="contact-info">
                 <div className="etic-logo-box">
-                  <img src={etic_logo} alt="ETIC GALA Logo" className="group-image" />
+                  <img src={etic_logo} alt="ETIC GALA Logo" className="group-image1" />
                 </div>
                 <div className="contact-details">
                   <div className="contact-detail-item">
